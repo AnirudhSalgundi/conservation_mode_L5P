@@ -4,7 +4,7 @@ This is a simple script for Lenovo Legion 5 pro, that enables the conservation m
 #####
 The installation procedure is very simple
 
-1. Download both the conservation_mode.py and install.sh files and KEEP BOTH THE FILES IN THE SAME FOLDER ALWAYS.
+1. Download both the conservation_mode.py and init.sh files and KEEP BOTH THE FILES IN THE SAME FOLDER ALWAYS.
 2. Once done, open your terminal from the folder which has both the files
 
 $ bash init.sh
