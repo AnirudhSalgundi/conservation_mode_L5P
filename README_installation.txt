@@ -9,7 +9,7 @@ Download both the conservation_mode.py and install.sh files and KEEP BOTH THE FI
 
 Once done, open your terminal from the folder which has both the files
 
-$ bash install.sh
+$ bash init.sh
 
 From then onwards, to run the tool perform, 
 
